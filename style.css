@@ -1,0 +1,116 @@
+body{
+	background-color: #632432;
+	font-family: Arial;
+}
+
+#main-container{
+	margin: 40px auto;
+	width: 700px;
+}
+
+table{
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+	padding-top: 0px;
+}
+
+th, td{
+	padding: 20px;
+}
+
+thead{
+	background-color: #246355;
+	border-bottom: solid 5px #0F362D;
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: #ddd;
+}
+
+tr:hover td{
+	background-color: #369681;
+	color: white;
+}
+
+
+h1 {color:darkred;}
+a {color:black;
+   margin-left:10px;
+   margin-right:20px;
+   font-size:20px;
+   text-decoration:none;
+}
+
+#navbar  {
+  background-color:orange;
+  width:100%;
+  height:50px;
+
+}
+  .duo {
+  padding-top:10%;
+  width:100px;
+  height:300px;
+}
+
+.uno img {
+  float:left;
+  padding:5px;
+  width:50%;
+  height:500px;
+}
+
+		body{background-color: #ddd;}
+		#container{
+			background-color: white;
+			margin: 0 auto;
+			width: 800px;
+			padding: 20px;
+
+			
+		}
+
+		article{
+			padding-top: 20px;
+			column-count: 3;
+			column-gap: 20px;
+			column-rule: dotted 4px #ccc;
+			
+		}
+		
+		/*
+	Color fondo: #632432;
+	Color header: 246355;
+	Color borde: 0F362D;
+	Color iluminado: 369681;
+*/
+
+p {
+  font-family:'Oswald', sans-serif;
+}
+
+h1 {
+  font-family:'Oswald', sans-serif;
+}
+
+h2 {
+  font-family:'Oswald', sans-serif;
+}
+
+h3 {
+  font-family:'Oswald', sans-serif;
+}
+
+tr {
+  font-family:'Oswald', sans-serif;
+}
+
+
+#menu {
+  font-family:'Oswald', sans-serif;
+}
+
+
